@@ -1,16 +1,35 @@
-Desafio 1
+<h1 style="text-align:center;"  <strong> Trilha C <span style="font-size:35px;">#</span></strong> 
+</h1>
+</h1>
+<h2> <strong> DESAFIO 1 </strong> </h2>
 
-Defina VCS (Sistema de controle de vers„o)
-R:î Lugarî onde È possÌvel ìsubirî nossos projetos possibilitando que v·rias pessoas possam visualizar, alterar, atualizar, de maneira independente, sem prejudica-los.
+<p> <strong> Defina VCS (Sistema de controle de vers√£o) </strong> </p>
+<br>
+<label>"Lugar" onde √© possivel "subir" nossos projetos possibilitando que v√°rias pessoas possam visualizar, alterar, atualizar, de maneira independente sem prejudica-los.</label>
+<br>
+<br>
+<p> <strong> 5 vantagens em utilizar o VCS: </strong> </p>
+<br>
 
-5 vantagens em utilizar o VCS:
-1. Melhor organizaÁ„o no desenvolvimento de um projeto em equipe;
-2.Possibilita agilidade no acompanhamento dos projetos;
-3.Praticidade e dinamismo para alterar e atualizar o que for necess·rio no projeto;
-4.OtimizaÁ„o do tempo, uma vez que as suas funcionalidades s„o r·pidas e objetivas;
-5. SeguranÁa e agilidade para trabalhar em um mesmo projeto em fases diferentes, garantido sua atualizaÁ„o sempre que necess·ria.
+<label>1.Melhor organiza√ß√£o no desenvolvimento de um projeto em equipe.<label> <br>
+<br>
+<label>2.Possibilita agilidade no acompanhamento dos projetos.</label> <br>
+<br>
+<label>3.Praticidade e dinamismo para alterar e atualizar o que for necess√°rio no projeto.</label> <br>
+<br>
+<label>4.Otimiza√ß√£o do tempo, uma vez que as suas funcionalidades s√£o r√°pidas e objetivas </label> <br>
+<br>
+<label>5. Seguran√ßa e agilidade para trabalhar em um mesmo projeto em fases diferentes, garantindo sua atualiza√ß√£o sempre que necessaria.</label>
+<br>
+<br>
 
-S„o exemplos de VCS:
-1.	SUBVERSION (Simples de ser empregada e indicada para equipes menores)
-2.	GIT (Mais popular, principalmente em projetos ìOpen sourceî)
-3.	MERCURIAL (Muito utilizada por grandes empresas como : Facebook e Google)
+<strong>Sao exemplos de VCS:</strong>
+<br>
+<br>
+<label>1.SUBVERSION (Simples de ser empregada e indicada para equipes menores)
+</label> <br>
+<br>
+<label>2.	GIT (Mais popular, principalmente em projetos Open source)
+</label><br>
+<br>
+3.	MERCURIAL (Muito utilizada por grandes empresas como : Facebook e Google)<label>
