@@ -1,35 +1,78 @@
 <h1 style="text-align:center;"  <strong> Trilha C <span style="font-size:35px;">#</span></strong> 
 </h1>
 </h1>
-<h2> <strong> DESAFIO 1 </strong> </h2>
+<h2> <strong> DESAFIO 2 </strong> </h2>
 
-<p> <strong> Defina VCS (Sistema de controle de versão) </strong> </p>
+<p> <strong> 1-Com suas palavras defina o que é lógica de programação e qual a importância para realizar um bom código: </strong> </p>
 <br>
-<label>"Lugar" onde é possivel "subir" nossos projetos possibilitando que várias pessoas possam visualizar, alterar, atualizar, de maneira independente sem prejudica-los.</label>
+<label>É através da lógica que podemos criar de maneira organizada os nossos códigos. Com o desenvolvimento de uma lógica coerente através de algoritmos temos habilidade para buscar a melhor forma de solucionar problemas e facilitar as tarefas.
+ Exercitar a lógica é um desafio diário para o programador pois ela é a base do seu trabalho, é  de suma importância.
+</label>
 <br>
 <br>
-<p> <strong> 5 vantagens em utilizar o VCS: </strong> </p>
+<p> <strong> 2- Exemplifique e explique funções: </strong> </p>
+<br>
+<label>Funções são códigos pré determinados que facilitam a estruturação de um código.
+Usamos as funções para que não precisemos copiar o código todas as vezes que formos executar determinada operação.
+Ela possui: nome, tipo e parâmetro.
+<br>
+<strong> Exemplo: </strong>
+<br>
+<p>Float CalculoArea (float largura, float comprimento)<br>
+{ <br> 
+	Return largura*comprimento; <br>
+}</p>
+
+</label>
+<br>
 <br>
 
-<label>1.Melhor organização no desenvolvimento de um projeto em equipe.<label> <br>
-<br>
-<label>2.Possibilita agilidade no acompanhamento dos projetos.</label> <br>
-<br>
-<label>3.Praticidade e dinamismo para alterar e atualizar o que for necessário no projeto.</label> <br>
-<br>
-<label>4.Otimização do tempo, uma vez que as suas funcionalidades são rápidas e objetivas </label> <br>
-<br>
-<label>5. Segurança e agilidade para trabalhar em um mesmo projeto em fases diferentes, garantindo sua atualização sempre que necessaria.</label>
+<strong>3-Exemplifique e explique estrutura sequencial:</strong>
 <br>
 <br>
+<label>É um conjunto de instruções no qual cada uma é executada em sequência, 
+passo a passo:<br>
+<strong>Exemplo:</strong><br>
+1º declaração de variável<br>
+2º comandos de entrada ou atribuição<br>
+3º Processamento de dados<br>
+4º Saída de dados<br>
+<br>
+<strong>4-Exemplifique e explique estrutura condicional:
+</strong><br>
+<br>
+<label>Ela indica quais instruções o sistema deve processar de acordo com uma expressão booleana . O sistema testa se a condição é verdadeira e executa os comandos de acordo com o resultado.<br>
+<strong>Exemplo:</strong><br>
+<p>If ( condição) <br>
+{<br>
+Se verdadeira executa;<br>
 
-<strong>Sao exemplos de VCS:</strong>
+Else <br>
+{
+<br>Se falsa executa;<br>
+{</p>
 <br>
+<strong>5-Exemplifique e explique estrutura de repetição while:
+</strong><br>
 <br>
-<label>1.SUBVERSION (Simples de ser empregada e indicada para equipes menores)
-</label> <br>
+<p>  É uma estrutura de repetição, ela repete uma condição enquanto esta for verdadeira. </p>
+<strong>Exemplo:</strong><br>
+<p>While ( condição) <br>
+{<br>
+comando1<br>
+
+comando2 <br>
+}
+</p>
 <br>
-<label>2.	GIT (Mais popular, principalmente em projetos Open source)
-</label><br>
+<strong>6-Exemplifique e explique estrutura de repetição for:
+</strong><br>
 <br>
-3.	MERCURIAL (Muito utilizada por grandes empresas como : Facebook e Google)<label>
+<p>  Essa estrutura de repetição é utilizada quando sabemos a quantidade de repetições que um bloco  deve ser executado. </p>
+<strong>Exemplo:</strong><br>
+<p>for (int i =0; i <= 10; i++)  <br>
+{<br>
+instruções<br>
+
+}
+
