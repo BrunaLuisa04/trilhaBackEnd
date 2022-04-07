@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "szANTFezbBbUQ52+XjYcVYmjA1C2+WccDXOInN8VPakpjpxhpOWogjUblr/5qBubmyCiDZ7BZ34EI3fb8dsxUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\trilhaBackEnd\\trilhaBackEnd\\DesafiosTrilhaC\\DesafiosTrilhaC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
