@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h3SSouUnO0MYy+be/3m81bE6YsxK+k1MIgcbkCRirTSzGTaYcvl4kI6aMRHqCw7/xKNnTEm4avc701JlfYMWEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\trilhaBackEnd\\trilhaBackEnd\\Exercicio-4\\Exercicio-4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

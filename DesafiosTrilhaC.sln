@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafiosTrilhaC", "DesafiosTrilhaC\DesafiosTrilhaC.csproj", "{28F80F39-6CD0-49B4-8E38-08CAA5AED927}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio-2", "Exercicio-2\Exercicio-2.csproj", "{8ECFB84E-AE74-4AAC-9884-5E09F82D7C93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio-2", "Exercicio-2\Exercicio-2.csproj", "{8ECFB84E-AE74-4AAC-9884-5E09F82D7C93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio-3", "Exercicio-3\Exercicio-3.csproj", "{EAE12175-57B7-4020-AFD5-24699ABE51B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio-4", "Exercicio-4\Exercicio-4.csproj", "{A5C1542F-2C41-4FA3-A2BF-3010B4C586C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{8ECFB84E-AE74-4AAC-9884-5E09F82D7C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ECFB84E-AE74-4AAC-9884-5E09F82D7C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ECFB84E-AE74-4AAC-9884-5E09F82D7C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE12175-57B7-4020-AFD5-24699ABE51B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE12175-57B7-4020-AFD5-24699ABE51B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE12175-57B7-4020-AFD5-24699ABE51B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE12175-57B7-4020-AFD5-24699ABE51B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C1542F-2C41-4FA3-A2BF-3010B4C586C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C1542F-2C41-4FA3-A2BF-3010B4C586C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C1542F-2C41-4FA3-A2BF-3010B4C586C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C1542F-2C41-4FA3-A2BF-3010B4C586C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
