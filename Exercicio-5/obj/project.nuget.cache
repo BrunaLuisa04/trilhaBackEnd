@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kk8rr+ZSJMoWvLGnHB+RZ+JRNEqtOwvqMd4GSnyAMVvPoL4DpwYj7kcW9qU/TT2Ty4O866nlFpB8hKRInTc0Bg==",
+  "dgSpecHash": "gVms7BAWTZEnIK48yzY7zdAjj18VIlzW5L9y83Hy9l77ivz4V/21TzPZ+s1kGQKL2O/LJtA9V+E+UkwtjB5cXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\trilhaBackEnd\\trilhaBackEnd\\Exercicio-5\\Exercicio-5.csproj",
+  "projectFilePath": "C:\\Users\\bubu_\\Desktop\\trilhaBackEnd\\trilhaBackEnd\\Exercicio-5\\Exercicio-5.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+    "C:\\Users\\bubu_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\bubu_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\bubu_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\bubu_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

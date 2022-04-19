@@ -8,32 +8,48 @@ namespace Exercicio_3
         {
             int codigo = 3251;
             int resposta;
+           
 
            
             Console.WriteLine("Digite o código:");
             resposta = int.Parse(Console.ReadLine());
 
             
-
-           if( codigo == resposta)
+            if (resposta== codigo)
             {
                 Console.WriteLine("Código correto!");
             }
-           else
-           {
-                Console.WriteLine("Código incorreto!");
-                if (codigo > resposta)
+            else
+            {
+                
+
+                while (resposta != codigo)
                 {
-                    Console.WriteLine("O código correto é  maior do que o informado");
+                    Console.WriteLine("Código incorreto!");
+                    if (codigo > resposta)
+                    {
+                        Console.WriteLine("O código correto é  maior do que o informado");
+                    }
+                    else
+                    {
+                        Console.WriteLine(" O Código correto é menor do que o informado");
+                    }
+                    Console.WriteLine("Digite o código:");
+                    resposta = int.Parse(Console.ReadLine());
+                   
+                                      
                 }
-                else
-                {
-                    Console.WriteLine(" O Código correto é menor do que o informado");
-                }
-               
-           }
+                
+
+
+
+            }
 
             Console.ReadLine();
+
+
+
+
         }
     }
 }
